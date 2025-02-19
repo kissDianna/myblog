@@ -1,0 +1,3 @@
+[submodule "themes/snanke"]
+	path = themes/snanke
+	url = https://gitee.com/nism-github/gohugo-theme-ananke.git

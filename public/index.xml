@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xx公司</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on xx公司</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 19 Feb 2025 11:34:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/podcast/about/</link>
+      <pubDate>Wed, 19 Feb 2025 11:34:44 +0800</pubDate>
+      <guid>http://localhost:1313/podcast/about/</guid>
+      <description>&lt;h3 id=&#34;about&#34;&gt;About&lt;/h3&gt;&#xA;&lt;p&gt;DeepSeek 是一家中国本土的人工智能公司，专注于开发低成本、高性能的 AI 模型。2025 年，该公司因其创新的开源模型和颠覆性技术在全球科技圈迅速走红，尤其是在美国市场引发了广泛关注:。其技术突破包括高效的训练方法和低成本策略，成功挑战了传统 AI 巨头的市场地位:。DeepSeek 的崛起不仅推动了中国 AI 行业的发展，还在全球范围内重塑了 AI 行业的竞争格局。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2021 08 30 a Sample Post</title>
+      <link>http://localhost:1313/posts/2021/2021-08-30-a-sample-post/</link>
+      <pubDate>Wed, 19 Feb 2025 11:31:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/2021/2021-08-30-a-sample-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sle6_interview With Winsta Ceo</title>
+      <link>http://localhost:1313/podcast/sle6_interview-with-winsta-ceo/</link>
+      <pubDate>Wed, 19 Feb 2025 11:27:20 +0800</pubDate>
+      <guid>http://localhost:1313/podcast/sle6_interview-with-winsta-ceo/</guid>
+      <description>&lt;h3 id=&#34;ceo&#34;&gt;ceo&lt;/h3&gt;&#xA;&lt;p&gt;ceo&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

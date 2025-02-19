@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'xx公司'
+theme = 'gohugo-theme-ananke'
