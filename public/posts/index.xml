@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on xx公司</title>
+    <title>Posts on 公司</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on xx公司</description>
+    <description>Recent content in Posts on 公司</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 19 Feb 2025 11:31:18 +0800</lastBuildDate>

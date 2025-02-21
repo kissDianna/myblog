@@ -1,4 +1,29 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-cn'
-title = 'xx公司'
-theme = 'gohugo-theme-ananke'
+title = '公司'
+theme = 'ananke'
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "服务"
+    url = "/services/"
+    weight = 3
+
+  [[menu.main]]
+    name = "联系我们"
+    url = "/contact/"
+    weight = 4
+
+  [[menu.main]]
+    name = "团队"
+    url = "/team/"
+    weight = 5
